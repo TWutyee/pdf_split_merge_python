@@ -1,6 +1,7 @@
 # 🧾 PDF Page Range Split and Merger with Python
 
 This is a simple PDF processing tool written in Python using `pypdf`.
+It includes lightweight Python script that splitting and merging PDF files. Built to replace repetitive manual tasks done in Adobe Acrobat, it provides an open-source, no-cost solution for document handling. Ideal for NGOs, educators, and remote teams needing simple document automation.
 
 ### 🔧 What it does:
 
